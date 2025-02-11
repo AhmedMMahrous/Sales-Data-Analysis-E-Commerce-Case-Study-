@@ -2,4 +2,4 @@ pandas
 plotly
 streamlit_option_menu
 streamlit
-PIL
+image
