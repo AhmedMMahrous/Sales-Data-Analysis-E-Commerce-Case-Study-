@@ -6,7 +6,7 @@ def home():
     st.title("📊 Sales Data Analysis: E-Commerce Case Study")
 
     # Load and display an image (Ensure 'pic.jpg' is in the correct directory)
-    image = Image.open('E:/My Projects/Machine Learning Projects/Sales Analysies/images/pic.jpg')
+    image = Image.open('images/pic.jpg')
     st.image(image, caption="E-Commerce Sales Analysis" , use_container_width = False)
 
     # Introduction

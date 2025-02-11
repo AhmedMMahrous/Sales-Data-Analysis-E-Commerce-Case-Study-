@@ -4,7 +4,7 @@ def about():
     st.title("About Me")
 
     # Add profile picture
-    st.image("E:/My Projects/Machine Learning Projects/Sales Analysies/images/me.jpeg", width=300)  # Replace with your image file
+    st.image("images/me.jpeg", width=300)  # Replace with your image file
 
     # Introduction
     st.write("""
